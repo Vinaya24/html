@@ -1,0 +1,86 @@
+nav {
+    background-color:darkblue;
+    color:white;
+    
+}
+a {
+    color:black;
+    font-size:16px;
+    font-weight:bold;
+    text-decoration:none;
+    padding right: 50px;
+    margin-right: 80px;
+    border-right: 1px solid #cccc;
+}
+a:hover {
+text-decoration: underline;
+}
+section {
+background-color: white;
+padding: 24px;
+margin: 16px 0;
+border: 1px solid #cccc;
+
+}
+.search{
+   background-color:#ecf2f4;
+}
+.search_heading{
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+    color: grey;
+ margin-bottom: 16px;
+
+}
+.search_form{
+    text-align: center;
+    margin-top: 9px;
+}
+.input_search{
+    padding: 10px;
+    font-size: 16px;
+    width: 25%;
+    margin-right: 32px;
+
+
+}
+.search_button{
+    background-color : grey ;
+    color: black;
+    padding: 16px;
+    border-radius: 3px;
+    border: none;
+}
+.listings_heading{
+    font-size: 16px;
+
+
+
+}
+.card{
+    border: 1px solid #cccc;
+    padding: 16px;
+}
+table,td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    border-spacing: 5px;
+    padding: 16px;
+    margin: 3px;
+
+    
+    
+}
+tr:hover{
+    background-color: grey;
+
+}
+th{
+    text-align: center;
+    
+}
+td{
+    text-align: left;
+}
